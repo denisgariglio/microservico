@@ -1,0 +1,4 @@
+com/denisg/microservico/core/model/Curso.class
+com/denisg/microservico/core/repository/CursoRepository.class
+com/denisg/microservico/core/model/Curso$CursoBuilder.class
+com/denisg/microservico/core/model/AbstractEntity.class
